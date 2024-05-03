@@ -4,6 +4,7 @@
 
 ![libft_score](https://github.com/DyDaDo13/libft/assets/139651579/a47aea8e-b669-4201-96d9-77f12cd7eef7)
 
+For the subject : https://cdn.intra.42.fr/pdf/pdf/116813/fr.subject.pdf
 
 ### The libft project is a reminder tho the hell of the c-piscine, introducing the lists and lot of string manipulating and pointer.
 
@@ -30,4 +31,4 @@ $> make re
 ```make re``` will remove all .o and executable and recompiling the project.
 
 ### Languages
-
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
